@@ -2,3 +2,5 @@
 remote_theme: jekyll/minima
 minima:
   skin: solarized-dark
+title: Tech Stuff!
+description: Tidbits, scipts, patterns and more!

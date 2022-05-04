@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Calculate distance between two lat-long points in SQL Sever!"
 tags: "sql-server geography maps"
 category: db-tricks
 ---

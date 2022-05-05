@@ -1,13 +1,11 @@
-{% if site.utterances.repository and site.utterances.issue-term  %}
-
 <script src="https://utteranc.es/client.js"
-        repo="{{ site.utterances.repository }}"
-        issue-term="{{ site.utterances.issue-term }}"
-        theme="{{ site.utterances.theme}}"
-        label="{{ site.utterances.label}}"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {%- if include.label or site.utterances.label -%}
+        label="{{ include.label | default: site.utterances.label }}"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
 </script>
-
-{% endif %}
 

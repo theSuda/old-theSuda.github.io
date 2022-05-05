@@ -7,7 +7,7 @@ author: Some Person
 #utterances:
 repository: "theSuda/theSuda.github.io"
 issue-term: "title"   # Mapping between blog posts and GitHub issues
-theme: "github-dark" # Utterances theme
+#theme: "github-dark" # Utterances theme
 label: "blog-comments" # Label that will be assigned to GitHub Issues created by Utterances
 
 # Default YAML values (more information on Jekyll's site)

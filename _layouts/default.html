@@ -1,20 +1,37 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+---
+---
+<!doctype html>
+<html lang="en">
+<head>
 
-  {%- include head.html -%}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <body>
+<title>
+  {%- if title -%}{{ title }}
+  {%- elsif page.title -%}{{ page.title }}
+  {%- else -%}{{ site.title }}
+  {%- endif -%}
+</title>
 
-    {%- include header.html -%}
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="robots" content="index,follow">
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+{% include styles.html %}
+{% include head-custom.html %}
 
-    {%- include footer.html -%}
+</head>
+<body>
 
-  </body>
+{% include header.html %}
 
+<main>{{ content }}</main>
+
+{% include footer.html %}
+
+<script type="text/javascript">{% include scripts.html %}</script>
+
+{% include footer-ext.html %}
+
+</body>
 </html>

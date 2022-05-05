@@ -5,6 +5,7 @@ layout: default
 <div class="post-meta">
   <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%a, %b %-d, %Y' }}</time>
   <span>{%- include read-time.html -%}</span>
+
 </div>
   
 <article>
@@ -23,4 +24,6 @@ layout: default
     <a href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}" class="post-nav__next" title="{{ page.next.title }}">Next →</a>
     {%- endif -%} 
   </span>
+  <span>{% include utterances-comment.html %}</span>
+
 </div>

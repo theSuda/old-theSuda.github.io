@@ -1,6 +1,42 @@
 #theme: jekyll-theme-hacker
-remote_theme: jekyll/minima
-minima:
-  skin: solarized-dark
+remote_theme: oinam/oinam-jekyll
 title: Tech Stuff!
 description: Tidbits, scipts, patterns and more!
+author: Some Person
+
+#utterances:
+repository: "theSuda/theSuda.github.io"
+issue-term: title   # Mapping between blog posts and GitHub issues
+theme: github-dark # Utterances theme
+label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap

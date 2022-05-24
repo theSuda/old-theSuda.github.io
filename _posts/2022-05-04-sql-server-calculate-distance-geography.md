@@ -3,6 +3,7 @@ layout: post
 title:  "How to calculate distance between two places in SQL Sever!"
 tags: "sql-server geography maps"
 category: database-tricks
+author: Sudarshan Kadam
 excerpt_separator: <!--more-->
 ---
 

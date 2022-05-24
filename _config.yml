@@ -3,8 +3,11 @@
 remote_theme: jekyll/minima
 title: Tech Stuff!
 description: Tidbits, scipts, patterns and more!
-author: Some Person
+author: Sudarshan Kadam
 
+show_excerpts: true
+minima:
+  skin: dark
 #utterances:
 repository: "theSuda/theSuda.github.io"
 issue-term: "title"   # Mapping between blog posts and GitHub issues

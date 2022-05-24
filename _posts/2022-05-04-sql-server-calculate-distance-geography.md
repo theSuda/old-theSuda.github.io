@@ -17,9 +17,9 @@ DECLARE @PointA geography = geography::Point(33.016329,100.394447, 4326) ---Rota
 
 SELECT CAST(@PointB.STDistance(@PointA)/1609.344 AS decimal(8,2)) AS distance_in_miles
 
-#=>Output:
-#=>'distance_in_miles
-#=>123.81' 
+Output:
+distance_in_miles
+123.81
 {% endhighlight %}
 
 You can also do this with single line instead of decalring variables. This way you can use this in select queries directly on multiple rows.

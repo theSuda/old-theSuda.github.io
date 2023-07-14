@@ -6,7 +6,7 @@ title: Tech Stuff!
 description: Tidbits, scipts, patterns and more!
 author: Sudarshan Kadam
 
-show_excerpts: true
+show_excerpts: false
 minima:
  skin: dark
 #comments

@@ -1,14 +1,14 @@
 #theme: jekyll-theme-hacker
 #remote_theme: oinam/oinam-jekyll
-#remote_theme: jekyll/minima
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: jekyll/minima
+#remote_theme: pages-themes/hacker@v0.2.0
 title: Tech Stuff!
 description: Tidbits, scipts, patterns and more!
 author: Sudarshan Kadam
 
 show_excerpts: true
-#minima:
-#  skin: dark
+minima:
+ skin: dark
 #comments
 # utterances:
 #   repository: "theSuda/theSuda.github.io"

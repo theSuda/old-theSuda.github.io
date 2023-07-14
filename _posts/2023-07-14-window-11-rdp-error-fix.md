@@ -7,15 +7,15 @@ category: windows-tricks
 author: Sudarshan Kadam
 excerpt_separator: <!--more-->
 ---
-## A fix for Windows 11 Remote Desktop error "Your credentials did not work" 
-
-I kept getting following error while trying to connect a Windows 11 Pro laptop with Remote Desktop Connection:
+Trying to connect a Windows 11 Pro laptop with Remote Desktop Connection, I kept getting following error:
   
 _"Your credentials did not work. The credentials that were used to connect to machine name did not work. Please enter the new credentials:"_
     
-## Solution
->**If you are currently logging in with a pin on remote machine, logout and re-login with the password.(On login screen, click 'Sign-in Options' under 'I forgot my PIN', then click the second icon to switch to Password mode)**
-  
+## The Fix...
+**Did you login with a PIN to the remote machine????**   
+### Just logout and <ins>login with a password.</ins>
+
+Here is how to user password instead of PIN (just in case): On login screen, click 'Sign-in Options' under 'I forgot my PIN', then click the second icon to switch to Password mode.  
   
 **That's it. If you have enabled RDP, logging in with password should fix it.**
 

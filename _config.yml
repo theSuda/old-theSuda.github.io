@@ -9,12 +9,13 @@ author: Sudarshan Kadam
 show_excerpts: false
 minima:
  skin: dark
+
 #comments
-# utterances:
-#   repository: "theSuda/theSuda.github.io"
-#   issue-term: "title"   # Mapping between blog posts and GitHub issues
-#   theme: "github-dark" # Utterances theme
-#   label: "blog-comments" # Label that will be assigned to GitHub Issues created by Utterances
+utterances:
+  repository: "theSuda/theSuda.github.io"
+  issue-term: "title"   # Mapping between blog posts and GitHub issues
+  theme: "github-dark" # Utterances theme
+  label: "blog-comments" # Label that will be assigned to GitHub Issues created by Utterances
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -46,4 +47,5 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
   # - jekyll-remote-theme # add this line to the plugins list if you already have one

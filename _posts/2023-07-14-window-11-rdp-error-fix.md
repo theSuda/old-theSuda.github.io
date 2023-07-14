@@ -1,5 +1,6 @@
 ---
 published: true
+title: A fix for Windows 11 Remote Desktop error "Your credentials did not work"
 layout: post
 tags: windows11 RDP remote-desktop
 category: windows-tricks

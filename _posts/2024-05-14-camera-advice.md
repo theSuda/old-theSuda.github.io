@@ -14,12 +14,12 @@ Full Frame lenses are generally expensive no matter which brand. Which brings me
 2. APS-C vs Full Frame camera: Research this properly. APS-C means the sensor is smaller than full frame sensor. Like your current camera or my sony camera. You do not need a full frame camera unless you are going to be a professional photographer doing model photoshoots or events like weddings. People like to say FULL FRAME IS BEST. It's like saying get Mercedes instead of Accord because it's the best. 
 It's universally agreed that you should invest in lenses more than the camera body.
 
-I suggest you go with APS-C camera as they are always lighter, lenses are WAY CHEAPER. Like less than half the price or even more sometimes. 
-See the photos I got with $499 lens even when they turned off lights for meditation. An equivalent lens of that one costs $999 for Nikon full frame and $899 for Sony Full frame. 
-Another example, I have Sigma 30mm F1.4 lens that cost $264, weight 265grams. Equivalent full frame lens Sigma 50mm F1.4 $839.00, weight 660grams. It gets heavier as you go bigger. 
-Full frame lenses are huge and heavy. APS-C lenses are very light (mostly).
+  I suggest you go with APS-C camera as they are always lighter, lenses are WAY CHEAPER. Like less than half the price or even more sometimes. 
+  See the photos I got with $499 lens even when they turned off lights for meditation. An equivalent lens of that one costs $999 for Nikon full frame and $899 for Sony Full frame. 
+  Another example, I have Sigma 30mm F1.4 lens that cost $264, weight 265grams. Equivalent full frame lens Sigma 50mm F1.4 $839.00, weight 660grams. It gets heavier as you go bigger. 
+  Full frame lenses are huge and heavy. APS-C lenses are very light (mostly).
 
-3. Compatibility with peers. This one is very subjective. But just think about it a momemnt. You and Naveen both brought cameras to the event and you could have used each other's lenses as both had Canon. Now recently, it has become Sony. Everywhere I got, I see people with Sony cameras. Nikon is awesome, no doubt, but you might be the only one around with one, especially at an event like ours. But if you don't care about this part that much then just use first two points to decide. They apply to all brands equally.
+3. Compatibility with peers. This one is very subjective. But just think about it a moment. You and Naveen both brought cameras to the event and you could have used each other's lenses as both had Canon. Now recently, it has become Sony. Everywhere I got, I see people with Sony cameras. Nikon is awesome, no doubt, but you might be the only one around with one, especially at an event like ours. But if you don't care about this part that much then just use first two points to decide. They apply to all brands equally.
 
 Quality wise, there are no distinction between Sony, Canon, Nikon, Panasonic, Fujifilm. It's the other features that take the cake.
 Sony == Best autofocus in the industry, packed with video features, most commonly used and huge variety of lenses. Budget friendly for APS-C.
